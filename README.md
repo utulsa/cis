@@ -10,7 +10,7 @@ TU’s Computer Information Systems program, established in 1982, is one of the 
 
 ## CIS Course List
 
-###[MIS 1001](/cis-1001-intro-to-spreadsheets/README.md) Intro To Spreadsheets
+###[CIS 1001](/cis-1001-intro-to-spreadsheets/README.md) Intro To Spreadsheets
 Introduces the use of Microsoft Office (Windows Explorer, Excel, PowerPoint) in a business environment. Primary emphasis on Excel fundamentals.
 
 ###[CIS 2003](/cis-2003-intro-to-cis/README.md) Intro to Computer Information Systems
