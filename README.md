@@ -2,6 +2,12 @@
 
 TU’s Computer Information Systems program, established in 1982, is one of the earliest information systems programs to be offered in the U.S. Its goal is to train students to make organizations run more efficiently through the use of technology by exposing them to a cross-disciplinary foundation comprising marketing, management, finance, CIS, and accounting courses. Students gain knowledge in a wide range of topics including business application development, database systems, telecommunications protocols, infrastructure, information security, systems analysis and design, and project management. Courses focused in IT specific areas such as healthcare informatics are also offered.
 
+
+
+### [Click here for CIS Class Resources](https://github.com/utulsa/cis-resources)
+
+
+
 ## CIS Course List
 
 ###[MIS 1001](/cis-1001-intro-to-spreadsheets/README.md) Intro To Spreadsheets
